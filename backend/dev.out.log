@@ -1,0 +1,6 @@
+
+> task-tracker-backend@1.0.0 dev
+> tsx watch src/server.ts
+
+1:34:58 pm [tsx] change in ./src\config\env.ts Restarting...
+c
